@@ -1,2 +1,2 @@
-# netflix-clone
- Netflix clone Thijs Herman
+# Netflix
+ Netflix clone by Thijs Herman
